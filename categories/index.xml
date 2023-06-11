@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 我的博客小站</title>
-    <link>http://carlzhao.github.io/categories/</link>
-    <description>Recent content in Categories on 我的博客小站</description>
+    <title>Categories on Hi, it&#39;s me</title>
+    <link>https://carlzhao.github.io/categories/</link>
+    <description>Recent content in Categories on Hi, it&#39;s me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://carlzhao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://carlzhao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
