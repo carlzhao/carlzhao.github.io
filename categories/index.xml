@@ -5,6 +5,16 @@
     <link>https://carlzhao.github.io/categories/</link>
     <description>Recent content in Categories on Hi, it&#39;s me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://carlzhao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://carlzhao.github.io/categories/tech/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlzhao.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
