@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我的博客小站</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on 我的博客小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jun 2023 14:00:00 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雨转晴的周六</title>
+      <link>http://example.org/posts/2023-06-10-rain-afternoon/</link>
+      <pubDate>Sat, 10 Jun 2023 14:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/posts/2023-06-10-rain-afternoon/</guid>
+      <description>Hey 上午有雨，而这一会儿，天气晴的很好
+我是可爱的Carl
+{:height 264, :width 432}
+@南小北 https://lee.so/music</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 10 Jun 2023 13:44:20 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hey 这是我的第一篇博客。
+我是可爱的Carl
+进入你的博客主页，新的文章将会出现在你的主页上.</description>
+    </item>
+    
+  </channel>
+</rss>
