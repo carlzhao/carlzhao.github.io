@@ -15,9 +15,9 @@
     
 
     
-    <meta name="title" content="Tech" />
-    <meta property="og:title" content="Tech" />
-    <meta property="twitter:title" content="Tech" />
+    <meta name="title" content="" />
+    <meta property="og:title" content="" />
+    <meta property="twitter:title" content="" />
     
 
     
@@ -34,9 +34,9 @@
     <meta name="keyword"  content="carzhao, 博客, 个人网站, 互联网, Web, 云原生, golang, tencent">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>Tech | Carl的博客 | CarlZhao Blog</title>
+    <title>Searches | Carl的博客 | CarlZhao Blog</title>
 
-    <link rel="canonical" href="/categories/tech/">
+    <link rel="canonical" href="/search/">
 
     
     
@@ -171,8 +171,7 @@
 
 
 
-  
-<div data-pagefind-ignore="all" class="container">
+<div class="container">
     <div class="row">
         
         
@@ -183,38 +182,117 @@
             col-xs-12
             post-container
         ">
-            
-<div data-pagefind-ignore="all">
-
-<div class="post-preview">
-    <a href="https://carlzhao.github.io/post/2023-07-02-recently-read-articles/">
-        <h2 class="post-title">
-            最近阅读
-        </h2>
-	
-        <div class="post-content-preview">
-	
-            最近阅读 Money Is the Megaphone of Identity &mdash; 金钱是身份的扩音器 讲故事的方法（回忆版） - 秘密花园
-       
-        </div>
-    </a>
-    <p class="post-meta">
-    
-        Posted by      &#34;&#34; on Sunday, July 2, 2023
         
-        
-    
-    </p>
-
-</div>
-<hr>
-
-</div>
-
             
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+
+<div id="search-searchbar"></div>
+ <div class="post-list" id="search-hits">
+ </div>
+
+<script>
+const search = instantsearch({
+  appId: '',
+  indexName: '',
+  apiKey: ''
+});
+
+const hitTemplate = function(hit) {
 
 
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('MMM D, YYYY');
+  }
+  let url = `${hit.url}#${hit.anchor}`;
+  const title = hit._highlightResult.title.value;
 
+  let breadcrumbs = '';
+  if (hit._highlightResult.headings) {
+    breadcrumbs = hit._highlightResult.headings.map(match => {
+      return `<span class="post-breadcrumb">${match.value}</span>`
+    }).join(' > ')
+  }
+
+  let content = "" ; 
+  if (hit._highlightResult.content){
+      content = hit._highlightResult.content.value;
+  }
+  else{
+      content = hit.summary;
+  }
+
+
+  return `
+    <div class="post-item">
+      <span class="post-meta">${date}</span>
+      <h2><a class="post-link" href="${url}">${title}</a></h2>
+      <a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>
+      <div class="post-snippet">${content}</div>
+    </div>
+  `;
+}
+
+
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-searchbar',
+    placeholder: 'Search into posts...',
+    poweredBy: true // This is required if you're on the free Community plan
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#search-hits',
+    templates: {
+      item: hitTemplate
+    }
+  })
+);
+
+search.start();
+</script>
+
+<style>
+.ais-search-box {
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+.post-item {
+  margin-bottom: 30px;
+}
+.post-link .ais-Highlight {
+  color: #111;
+  font-style: normal;
+  text-decoration: underline;
+}
+.post-breadcrumbs {
+  color: #424242;
+  display: block;
+}
+.post-breadcrumb {
+  font-size: 18px;
+  color: #424242;
+}
+.post-breadcrumb .ais-Highlight {
+  font-weight: bold;
+  font-style: normal;
+}
+.post-snippet .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+.post-snippet img {
+  display: none;
+}
+</style>
+
+        
        	</div>
         
 
@@ -345,8 +423,6 @@
 
 
 
-
-
 <footer>
     <div class="container">
         <div class="row">
@@ -420,7 +496,7 @@
             
            
                    <li>
-                       <a href='/categories/tech/index.xml' rel="alternate" type="application/rss+xml" title="Hi, it&#39;s me" >
+                       <a href='/search/index.xml' rel="alternate" type="application/rss+xml" title="Hi, it&#39;s me" >
                            <span class="fa-stack fa-lg">
                                <i class="fas fa-circle fa-stack-2x"></i>
                                <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
