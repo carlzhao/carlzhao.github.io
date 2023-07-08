@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>使用长图</title>
-      <link>https://carlzhao.github.io/post/2023-07-08-another-post/</link>
+      <title>前端学习「Vue.js 3」</title>
+      <link>https://carlzhao.github.io/post/2023-07-08-learn-vuejs/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2023-07-08-another-post/</guid>
-      <description>TBC&amp;hellip;</description>
+      <guid>https://carlzhao.github.io/post/2023-07-08-learn-vuejs/</guid>
+      <description>循序渐进Vue.js 3前端开发实战 (豆瓣)</description>
     </item>
     
     <item>
@@ -23,6 +23,15 @@
       
       <guid>https://carlzhao.github.io/post/2023-07-02-recently-read-articles/</guid>
       <description>最近阅读 Money Is the Megaphone of Identity &amp;mdash; 金钱是身份的扩音器 讲故事的方法（回忆版） - 秘密花园 圆满和妥协 - 洛阳小散户 本期嘉宾 - 旧真 - 全嘻嘻 | 小宇宙</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://carlzhao.github.io/post/2021-06-10-my-first-post/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlzhao.github.io/post/2021-06-10-my-first-post/</guid>
+      <description>Hey 这是我的第一篇博客。 我是可爱的Carl 进入你的博客主页，新的文章将会出现在你的主页上.</description>
     </item>
     
   </channel>

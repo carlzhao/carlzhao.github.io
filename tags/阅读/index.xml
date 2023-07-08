@@ -6,16 +6,7 @@
     <description>Recent content in 阅读 on Hi, it&#39;s me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>使用长图</title>
-      <link>https://carlzhao.github.io/post/2023-07-08-another-post/</link>
-      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://carlzhao.github.io/post/2023-07-08-another-post/</guid>
-      <description>TBC&amp;hellip;</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/tags/%E9%98%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最近阅读</title>
       <link>https://carlzhao.github.io/post/2023-07-02-recently-read-articles/</link>
@@ -27,11 +18,20 @@
     
     <item>
       <title>像少年啦飞驰</title>
-      <link>https://carlzhao.github.io/post/2021-06-30-flying-like-a-teenager/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <link>https://carlzhao.github.io/post/2021-07-01-flying-like-a-teenager-copy/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2021-06-30-flying-like-a-teenager/</guid>
+      <guid>https://carlzhao.github.io/post/2021-07-01-flying-like-a-teenager-copy/</guid>
       <description>属于少年的日子飞驰而过，我所寻找的却从未出现 总有些人和事，时长会让你回忆起，不是因为它们多么的重要，而是因为那是你回不去的过去…… 人生路径 18</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://carlzhao.github.io/post/2021-06-10-my-first-post/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlzhao.github.io/post/2021-06-10-my-first-post/</guid>
+      <description>Hey 这是我的第一篇博客。 我是可爱的Carl 进入你的博客主页，新的文章将会出现在你的主页上.</description>
     </item>
     
   </channel>

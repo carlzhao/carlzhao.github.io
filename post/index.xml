@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>使用长图</title>
-      <link>https://carlzhao.github.io/post/2023-07-08-another-post/</link>
+      <title>前端学习「Vue.js 3」</title>
+      <link>https://carlzhao.github.io/post/2023-07-08-learn-vuejs/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2023-07-08-another-post/</guid>
-      <description>TBC&amp;hellip;</description>
+      <guid>https://carlzhao.github.io/post/2023-07-08-learn-vuejs/</guid>
+      <description>循序渐进Vue.js 3前端开发实战 (豆瓣)</description>
     </item>
     
     <item>
@@ -44,21 +44,21 @@
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://carlzhao.github.io/post/2022-03-22-my-first-post/</link>
-      <pubDate>Sat, 10 Jun 2023 13:44:20 +0800</pubDate>
+      <title>像少年啦飞驰</title>
+      <link>https://carlzhao.github.io/post/2021-07-01-flying-like-a-teenager-copy/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2022-03-22-my-first-post/</guid>
-      <description>Hey 这是我的第一篇博客。 我是可爱的Carl 进入你的博客主页，新的文章将会出现在你的主页上.</description>
+      <guid>https://carlzhao.github.io/post/2021-07-01-flying-like-a-teenager-copy/</guid>
+      <description>属于少年的日子飞驰而过，我所寻找的却从未出现 总有些人和事，时长会让你回忆起，不是因为它们多么的重要，而是因为那是你回不去的过去…… 人生路径 18</description>
     </item>
     
     <item>
-      <title>像少年啦飞驰</title>
-      <link>https://carlzhao.github.io/post/2021-06-30-flying-like-a-teenager/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <title>My First Post</title>
+      <link>https://carlzhao.github.io/post/2021-06-10-my-first-post/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2021-06-30-flying-like-a-teenager/</guid>
-      <description>属于少年的日子飞驰而过，我所寻找的却从未出现 总有些人和事，时长会让你回忆起，不是因为它们多么的重要，而是因为那是你回不去的过去…… 人生路径 18</description>
+      <guid>https://carlzhao.github.io/post/2021-06-10-my-first-post/</guid>
+      <description>Hey 这是我的第一篇博客。 我是可爱的Carl 进入你的博客主页，新的文章将会出现在你的主页上.</description>
     </item>
     
   </channel>
