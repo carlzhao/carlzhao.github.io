@@ -6,7 +6,25 @@
     <description>Recent content in Posts on Hi, it&#39;s me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用长图</title>
+      <link>https://carlzhao.github.io/post/2023-07-08-another-post/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlzhao.github.io/post/2023-07-08-another-post/</guid>
+      <description>TBC&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>一个季度的目标</title>
+      <link>https://carlzhao.github.io/post/2023-07-04-a-quarter-plan/</link>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlzhao.github.io/post/2023-07-04-a-quarter-plan/</guid>
+      <description>最近的感悟 昨天使用vue-echarts绘制了一下曲线图，把最近一个季度的坐标点都标注在上面，图长这样： 这漫长而重复的周期着实让人看着头痛，</description>
+    </item>
+    
     <item>
       <title>最近阅读</title>
       <link>https://carlzhao.github.io/post/2023-07-02-recently-read-articles/</link>
@@ -27,19 +45,19 @@
     
     <item>
       <title>My First Post</title>
-      <link>https://carlzhao.github.io/post/2023-06-10-my-first-post/</link>
+      <link>https://carlzhao.github.io/post/2022-03-22-my-first-post/</link>
       <pubDate>Sat, 10 Jun 2023 13:44:20 +0800</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2023-06-10-my-first-post/</guid>
+      <guid>https://carlzhao.github.io/post/2022-03-22-my-first-post/</guid>
       <description>Hey 这是我的第一篇博客。 我是可爱的Carl 进入你的博客主页，新的文章将会出现在你的主页上.</description>
     </item>
     
     <item>
       <title>像少年啦飞驰</title>
-      <link>https://carlzhao.github.io/post/2021-06-30-create-blog-success/</link>
+      <link>https://carlzhao.github.io/post/2021-06-30-flying-like-a-teenager/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2021-06-30-create-blog-success/</guid>
+      <guid>https://carlzhao.github.io/post/2021-06-30-flying-like-a-teenager/</guid>
       <description>属于少年的日子飞驰而过，我所寻找的却从未出现 总有些人和事，时长会让你回忆起，不是因为它们多么的重要，而是因为那是你回不去的过去…… 人生路径 18</description>
     </item>
     
