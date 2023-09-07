@@ -18,17 +18,17 @@
     
     <item>
       <title>前端学习「Vue.js 3」</title>
-      <link>https://carlzhao.github.io/post/2023-07-08-learn-vuejs-copy/</link>
+      <link>https://carlzhao.github.io/post/2023-07-08-learn-vuejs/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://carlzhao.github.io/post/2023-07-08-learn-vuejs-copy/</guid>
+      <guid>https://carlzhao.github.io/post/2023-07-08-learn-vuejs/</guid>
       <description>循序渐进Vue.js 3前端开发实战 (豆瓣) 「 人生如逆旅，我亦是行人。 」 临江仙·送钱穆父-苏轼</description>
     </item>
     
     <item>
       <title>一个季度的目标</title>
       <link>https://carlzhao.github.io/post/2023-07-04-a-quarter-plan/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://carlzhao.github.io/post/2023-07-04-a-quarter-plan/</guid>
       <description>最近的感悟 昨天使用vue-echarts绘制了一下曲线图，把最近一个季度的坐标点都标注在上面，图长这样： 这漫长而重复的周期着实让人看着头痛，</description>
@@ -50,6 +50,15 @@
       
       <guid>https://carlzhao.github.io/post/2023-06-10-rain-afternoon/</guid>
       <description>Hey 上午有雨，而这一会儿，天气晴的很好</description>
+    </item>
+    
+    <item>
+      <title>2022年这时候发生过啥？</title>
+      <link>https://carlzhao.github.io/post/2022-03-22-unknown/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlzhao.github.io/post/2022-03-22-unknown/</guid>
+      <description>TBC&amp;hellip;</description>
     </item>
     
     <item>
