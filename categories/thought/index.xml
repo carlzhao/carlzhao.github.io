@@ -4,35 +4,30 @@
     <title>Thought on Hi, it&#39;s me</title>
     <link>https://carlzhao.github.io/categories/thought/</link>
     <description>Recent content in Thought on Hi, it&#39;s me</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://carlzhao.github.io/categories/thought/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://carlzhao.github.io/categories/thought/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我们都是候鸟</title>
       <link>https://carlzhao.github.io/post/2023-07-14-far-away-from-home/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://carlzhao.github.io/post/2023-07-14-far-away-from-home/</guid>
       <description>早上7点，微信弹出消息提醒。拿手机过来看，表弟昨晚半夜未睡，晚上11点给我发消息说，“哥，我快要结婚了，以后没办法定居在老家，最近越来越有想</description>
     </item>
-    
     <item>
       <title>一个季度的目标</title>
       <link>https://carlzhao.github.io/post/2023-07-04-a-quarter-plan/</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://carlzhao.github.io/post/2023-07-04-a-quarter-plan/</guid>
       <description>最近的感悟 昨天使用vue-echarts绘制了一下曲线图，把最近一个季度的坐标点都标注在上面，图长这样： 这漫长而重复的周期着实让人看着头痛，</description>
     </item>
-    
     <item>
       <title>最近阅读</title>
       <link>https://carlzhao.github.io/post/2023-07-02-recently-read-articles/</link>
       <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://carlzhao.github.io/post/2023-07-02-recently-read-articles/</guid>
       <description>最近阅读 Money Is the Megaphone of Identity &amp;mdash; 金钱是身份的扩音器 讲故事的方法（回忆版） - 秘密花园 圆满和妥协 - 洛阳小散户 本期嘉宾 - 旧真 - 全嘻嘻 | 小宇宙</description>
     </item>
-    
   </channel>
 </rss>
